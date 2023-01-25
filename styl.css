@@ -1,0 +1,94 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* -----NAV BAR------ */
+.navbar{
+    margin-left: 10em;
+}
+.btn-signin{
+    background-color: #6495ed ;
+    border: none;
+    color: #ffffff;
+    border-radius: 3px;
+    padding: 5px 10px;
+    margin-left: 55em;
+}
+
+/*-----------------Header--------------------*/
+#img_bg{
+    background-image: url("./images/photo.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 32vw;
+    text-align: center;
+    
+}
+#email{
+    width: 250px;
+    padding: 4px 0px 3px 4px;
+    border-radius: 3px;
+    border: none;
+    margin-left: 25px;
+}
+.info{
+    font-family:'Times New Roman', Times, serif;
+    color: #ffffff;
+    font-size: 35px;
+    width: 50%;
+    padding-top: 35px;
+    margin-left:350px;
+}
+
+
+/*-----INFORMATIONS ABOUT ICONS------- */
+.ico{
+    text-align: center;
+}
+.fully_respo{
+    position: absolute;
+    top: 30em;
+    left: 5em ;
+}
+i{
+    color: blue;
+}
+
+.easy{
+    position: absolute;
+    top: 30em;
+    left: 46em;
+}
+p{
+    color: #403f3d;
+    font-size: 15px;
+}
+
+.easy{
+    position: absolute;
+    top: 30em;
+    left: 46em;
+}
+.fully_respo{
+    position: absolute;
+    top: 30em;
+    left: 5em ;
+}
+i{
+    color: blue;
+    margin-bottom: 10px;
+}
+p{
+    color: #403f3d;
+    font-size: 15px;
+    margin-top: 5px;
+}
+.bootstrap{
+    position: absolute;
+    top: 30em;
+    left: 25em;
+    text-align: center;
+
+}
